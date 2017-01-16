@@ -4,14 +4,14 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.algaworks</groupId>
-	<artifactId>ebook-primeiros-passos-spring-mvc</artifactId>
+	<artifactId>ebook-spring-boot</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 
 	<packaging>jar</packaging>
 
-	<name>ebook-primeiros-passos-spring-mvc</name>
-	<description>Projeto desenvolvido no e-Book Primeiros Passos Com Spring MVC</description>
-	<url>http://cafe.algaworks.com/livreto-spring-mvc</url>
+	<name>E-book Spring Boot</name>
+	<description>Projeto desenvolvido no e-book Produtividade no Desenvolvimento de Aplicações Web Com Spring Boot.</description>
+	<url>http://cafe.algaworks.com/livro-spring-boot/</url>
 
 	<organization>
 		<name>AlgaWorks</name>
